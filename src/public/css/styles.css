@@ -1,0 +1,9 @@
+p.card-text {
+    max-width: 50ch;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+body {
+    background-color: black;
+}
